@@ -1,4 +1,12 @@
 # Simulador de Cache em Python
+---
+Trabalho final da disciplina de AOCII - UFPel
+---
+Autores 
+- Maria Luiza Prata
+- Diogo Kruger
+
+---
 
 Simulador de memória cache que suporta diferentes configurações e políticas de substituição:  
 - Associatividade (número de conjuntos e vias)  
